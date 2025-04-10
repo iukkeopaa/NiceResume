@@ -1,0 +1,1 @@
+JUC: 熟悉Java多线程，Java并发编程，集合框架，对线程池，Synchronized的锁升级，Volatile关键字，JUC，AQS,CAS,ThreadLocal有详细的理解
