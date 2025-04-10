@@ -1,0 +1,2 @@
+开源框架:熟悉使用Spring、SpringBoot、SpringMVC、Mybatis等主流开发框架，熟悉SpringBean生命周期、循环依
+赖问题和AOP原理，还熟悉SpringBoot自动配置原理，并且能在开发中自定义Starter。
