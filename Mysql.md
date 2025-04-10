@@ -27,3 +27,5 @@ MySQL:熟悉使用MySQL数据库，具备慢SQL的优化经验;熟悉MVCC、事�
 熟练掌握 SQL 语言，熟悉 MySQL 及其索引、事务、存储引擎，处理过死锁场景;熟悉各类数据库工具
 的应用，包括 JPA、Mybatis-Plus 及其查询构造器的运用，如多数据源配置、Sharding-JDBC 分库分表
 等;了解 MongoDB 的基本应用。
+
+MySQL:熟悉索引原理和索引优化、事务隔离级别、ACID实现原理、MVCC机制、共享锁、排他锁等锁机制。
